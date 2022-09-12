@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar ul li{
+    display:inline;
+    margin-left:90px ;
+    margin-right:90px ;
+}
+.navbar{
+    text-align: center;
+    background-color: #000000;
+    color: #27B46E;
+    padding: 30px ;
+    font-family: 'Rubik Dirt', cursive;
+    font-size : 35px;
+}
+.navbar ul li a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.photo img{
+    position : absolute;
+    right: 120vh ; 
+    top : 25vh;
+    }
+ .photo img{
+    width : 250px;
+    height : 250px;
+    }
+.photo2 img{
+        position : absolute;
+        right: 120vh ; 
+        top : 70vh;
+        }
+.photo2 img{
+            width : 250px;
+            height : 250px;
+            }
+.group h1 {
+        font-size : 45;
+        text-align : center;
+        position: absolute;
+        top: 300px;
+        right: 770px;
+        font-family: 'Edu NSW ACT Foundation', cursive;
+        
+         }
+#Kcal {
+        font-size : 45;
+        color : rgb(5, 5, 5);
+        position: absolute;
+        top: 800px;
+        right: 755px;
+        font-family: 'Edu NSW ACT Foundation', cursive;
+
+            }
+#Steps {
+        font-size : 45;
+        text-align : center;
+        position: absolute;
+        top: 300px;
+        right: 700px;
+        font-family: 'Edu NSW ACT Foundation', cursive;
+                 }
+#Kcal1 {
+         font-size : 45;
+         color : rgb(5, 5, 5);
+        position: absolute;
+        top: 800px;
+        right: 700px;
+         font-family: 'Edu NSW ACT Foundation', cursive;
+             }
+           
+             body {
+                background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+                }
